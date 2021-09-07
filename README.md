@@ -9,7 +9,7 @@ This repository is comprised of notebooks that contains code for testing Vision 
 
 ## The Objective 
 
-The objective of this project is to get a clear comparision between the performances of pre-trained Vision Transformer (here, ViT-Large) and pre-trained Xresnet50, when they are trained using different (here, Adam and Ranger) optimizers, on the ImageWoof dataset.
+The objective of this project is to get a clear comparision between the performances of pre-trained Vision Transformer (here, ViT-Large) and pre-trained Xresnet50, when they are trained using different (here, Adam and Ranger) optimizers, on the ImageWoof dataset. This project is helpful to people who want to use state-of-the-art models, but have limited resources and are dependent on online environments such as Google Colab.
 
 
 **NB :** For this project, ViT-Large was used as I (that is, Prakash Pandey) wanted to get the state-of-the-art model, and, also, because training ViT-Huge model threw 'CUDA Out of Memory' error even with batch size = 1, on Google Colab. So, I found ViT-Large to be the 'deepest' vision transformer that could be trained on Google Colab.
