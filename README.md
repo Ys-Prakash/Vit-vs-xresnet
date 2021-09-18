@@ -5,7 +5,7 @@ This repository is comprised of notebooks that contains code for testing Vision 
 
 1. [The Walk with fatsai course on ImageWoof](https://walkwithfastai.com/ImageWoof)
 2. [Ross Wightman's repository for vision transformer](https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py)
-3. [Fastai](https://docs.fast.ai/)
+3. [fastai](https://docs.fast.ai/)
 
 ## The Objective 
 
