@@ -1,7 +1,7 @@
 # ViT-Large vs XResnet50 (using Adam and Ranger optimizers)
 This repository is comprised of notebooks that contains code for testing Vision Transformer and XResnet50, both of them pre-trained, on the ImageWoof dataset, using Adam and Ranger optimizers.
 
-## Acknowledgements 
+## Acknowledgement
 
 1. [The Walk with fatsai course on ImageWoof](https://walkwithfastai.com/ImageWoof)
 2. [Ross Wightman's repository for vision transformer](https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py)
